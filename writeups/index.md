@@ -1,3 +1,9 @@
-[Hack the Box](hackthebox/index.md)
+---
+layout: page
+title: Writeups
+permalink: /writeups/
+---
 
-[Proving Grounds](provinggrounds/index.md)
+### [Hack the Box](hackthebox/index.md)
+
+### [Proving Grounds](provinggrounds/index.md)
