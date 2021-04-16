@@ -1,3 +1,9 @@
+---
+layout: page
+title: Bashed
+permalink: /writeups/hackthebox/bashed/
+---
+
 # This is header one
 ## This is header two
 
