@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hack The Box
-permalink: /writeups/hackthebox
+permalink: /writeups/hackthebox/
 ---
 
 # Hack The Box
