@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Proving Grounds
-permalink: /writeups/provinggrounds
+permalink: /writeups/provinggrounds/
 ---
 
 ### Proving Grounds machines below.
