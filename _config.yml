@@ -24,7 +24,7 @@ header_pages:
   - hello.md
   - new.md
   - writeups/index.md
-  - notes/index.md
+  - notes/notes.md
   
 title: Your awesome title
 email: your-email@example.com
