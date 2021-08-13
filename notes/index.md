@@ -1,1 +1,0 @@
-Notes i have taken
