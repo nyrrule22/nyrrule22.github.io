@@ -43,5 +43,3 @@ tags: aws
 - Viewing Access Keys; You only get to view the access key ID and secret access key once. If you lose them, you have to regenerate them. Make sure to save them in a secure location.
 - Use MFA: Always set up Multi-Factor Authentication (MFA) on your root account.
 - Password Rotation: You can create and customize your own password rotation policies.
-
-###### tags: `aws`
