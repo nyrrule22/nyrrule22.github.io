@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AWS Notes
-permalink: /aws/
+permalink: /notes/aws/
 tags: aws
 ---
 AWS
@@ -17,6 +17,3 @@ AWS Certified Developer - Associate
 ---
 
 - [Beginners Guid to IAM](/xIAaAzLVTbq06sJ4VhcbMg)
-
-
-###### tags: `aws`
