@@ -1,3 +1,9 @@
+---
+layout: page
+title: Beginners Guide to IAM
+permalink: /notes/aws/aws_certified_developer-associate/bgtiam
+tags: aws
+---
 # Beginners Guid to IAM
 
 # IAM 101
