@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Beginners Guide to IAM
-permalink: /notes/aws/aws_certified_developer-associate/bgtiam
+permalink: /notes/aws/aws_certified_developer-associate/beginners_guide_to_iam
 tags: aws
 ---
 # Beginners Guid to IAM
