@@ -6,4 +6,4 @@ permalink: /notes/
 
 Where I am sharing my notes.
 
-[AWS Notes](notes/aws.md)
+[AWS Notes](aws/aws.md)
