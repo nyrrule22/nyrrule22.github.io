@@ -23,6 +23,7 @@ header_pages:
   - about.md
   - hello.md
   - writeups/index.md
+  - notes/
   
 title: Your awesome title
 email: your-email@example.com
