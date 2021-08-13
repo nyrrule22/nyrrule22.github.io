@@ -1,4 +1,7 @@
 ---
+layout: page
+title: AWS Notes
+permalink: /aws/
 tags: aws
 ---
 AWS
